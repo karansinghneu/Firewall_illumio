@@ -18,4 +18,4 @@ If i would have had more time i would have thought more on the design of the cod
 
 TEAM
 
-I would love to work for the Platform Team.
+I would love to work for the Platform Team or the Data Team.
