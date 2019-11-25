@@ -1,6 +1,6 @@
 This is the code for Illumio's coding assessment.
 
-I completed the assessment in about 100 minutes and my main focus was on the design and functioning such that it is open for extension and closed for modification.
+I completed the assessment in about 90 minutes and my main focus was on the design and functioning such that it is open for extension and closed for modification.
 
 I have tested the functionality of my code using JUnit test cases and i tried to cover the general cases as well as the edge cases to the best of my ability in the limited given time period.
 
